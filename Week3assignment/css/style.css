@@ -68,6 +68,7 @@ body {
   
   #nav-list {
     margin-top: 10px;
+    border: #000;
   }
   #nav-list a {
     color: #951C49;
